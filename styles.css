@@ -1,3 +1,13 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+li {
+    display: inline;
+    padding: 8px;  
+}
+
+image {
+    height: 100%;
+    width: 300px;
+}
