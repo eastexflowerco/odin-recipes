@@ -1,13 +1,26 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
 }
 
-li {
+.menu {
     display: inline;
     padding: 8px;  
 }
 
-image {
+.image {
     height: 100%;
-    width: 300px;
+    width: 400px;
+}
+
+a:link {
+    color: rgb(2, 134, 250);
+}
+
+a:visited {
+    color: rgb(2, 134, 250);
+}
+
+a:hover {
+    color: black;
 }
