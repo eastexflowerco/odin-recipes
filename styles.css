@@ -1,6 +1,13 @@
-body {
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
     background-color: white;
+}
+
+.div-center {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu {
